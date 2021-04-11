@@ -1,0 +1,2 @@
+Z:\university\ооп\програми\4.1\Debug\4.1.exe
+Z:\university\ооп\програми\4.1\Debug\4.1.pdb
